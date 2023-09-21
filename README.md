@@ -1,6 +1,6 @@
 # 🌌 CLU Panel - Military Targeting Technology 🎯
 
-## Overview 📖
+## Overview 📖 
 
 The CLU (Collimator for Laser, Zoom, and Night Vision) panel is a critical tool in military applications, offering various functionalities that enhance precision and situational awareness in the field.
 
