@@ -29,14 +29,7 @@ The CLU (Collimator for Laser, Zoom, and Night Vision) panel is a critical tool 
 
 ## Contributing 🤝
 
-Contributions are welcome! Follow these steps to contribute:
-
-1. 🍴 Fork the repository.
-2. 🌿 Create a new branch for your feature: `git checkout -b feature-name`.
-3. 🚀 Make your changes and commit them: `git commit -m 'Add your feature'`.
-4. 📤 Push to the branch: `git push origin feature-name`.
-5. 🎯 Open a pull request.
-
+Contributions are welcome! 
 ## License 📜
 
 This project is licensed under the MIT License - see the [MIT License](mit.md) file for details.
